@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.name         = "YFeiiNetwork"
   s.version      = "0.0.1"
-  s.summary      = "A short description of YFeiiNetwork."
+  s.summary      = "网络框架"
 
   
   s.description  = <<-DESC
